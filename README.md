@@ -1,5 +1,4 @@
-# CSharp1
-Essential C#
+# Essential C#
 
 C# is a general-purpose, object-oriented programming language. Its development team is led by Anders Hejlsberg. The most recent version is C# 7.3, which was released in 2018 alongside Visual Studio 2017 version 15.7.2.
 
